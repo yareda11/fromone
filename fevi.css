@@ -1,0 +1,31 @@
+h2 {
+    color: rgb(245, 83, 204);
+    background-color: rgb(206, 236, 236);
+}
+#head {
+    border: solid rgb(190, 6, 181) 4px;
+    align-items: center;
+    margin: 6px;
+    font-size: 25px;
+    margin-right: 6px;
+    padding: 20px;
+    background-color: rgb(159, 193, 223);
+}
+a {
+    margin-right: 80px;
+    text-decoration: none;
+    color: rgb(243, 121, 8);
+
+}
+a:hover {
+    background-color: brown;
+    color: aliceblue;
+}
+#home {
+    border: solid rgb(216, 160, 6) 4px;
+    margin-right: 50%;
+    font-size: larger;
+    padding: 20px;
+    background-color: rgb(201, 253, 216);
+
+}
